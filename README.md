@@ -2,6 +2,5 @@
 ## test ##
 __Hello world!__
 1. Welcome to the test repository of Sgallon!
-2. Goodbye 2019!
-3. Hello 2020!
-4. Remote test
+2. Goodbye 2020!
+3. Hello 2021!
