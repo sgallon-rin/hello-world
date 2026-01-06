@@ -5,8 +5,8 @@
 __Hello world!__
 
 1. Welcome to the test repository of Sgallon!
-2. Goodbye 2024!
-3. Hello 2025!
+2. Goodbye 2025!
+3. Hello 2026!
 
 ## contributors
 
